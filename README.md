@@ -14,4 +14,3 @@ change the path of image.
   $ split_chanels for task 1
   $ merge_chanels for task 1
   $ orange_filter for task 2
-
